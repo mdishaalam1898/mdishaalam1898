@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript,ReactJs, Redux**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-33e28f.netlify.app](https://portfolio-33e28f.netlify.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-33e28f.netlify.app](https://portfolio-f85ee9.netlify.app)
 
 - 💬 Ask me about **Front-end development, Java Developer**
 
