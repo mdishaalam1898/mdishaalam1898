@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdishaalam1898&label=Profile%20views&color=0e75b6&style=flat" alt="mdishaalam1898" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,ReactJs, Redux**
+- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-33e28f.netlify.app](https://portfolio-f85ee9.netlify.app)
 
