@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-33e28f.netlify.app](https://mdishaalam1898.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://mdishaalam1898.github.io/portfolio/](https://mdishaalam1898.github.io/portfolio/)
 
 - 💬 Ask me about **Front-end development, Java Developer**
 
