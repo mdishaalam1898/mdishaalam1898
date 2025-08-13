@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Front-end development, Java Developer**
 
-- 📫 How to reach me **mdisha.ece.8340@gmail.com**
+- 📫 How to reach me **mdishaalam560@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
